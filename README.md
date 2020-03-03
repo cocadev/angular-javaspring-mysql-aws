@@ -210,15 +210,3 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: [replac
 #### Database Schema
 ![ER Diagram](/screenshots/db_schema.png?raw=true)
 
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/angular-springboot-rest-jwt#backer)]
-
-<a href="https://opencollective.com/angular-springboot-rest-jwt#backers" target="_blank"><img src="https://opencollective.com/angular-springboot-rest-jwt/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/angular-springboot-rest-jwt#sponsor)]
-
